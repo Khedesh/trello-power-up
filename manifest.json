@@ -1,21 +1,13 @@
 {
   "name": "Minit",
   "description": "",
-  "details": "Using Minit[https://minitapp.ir] in Trello",
+  "details": "Using (Minit)[https://minitapp.ir] in Trello",
   "icon": {
     "url": "./images/logo.png"
   },
   "author": "Viratech Sharif",
   "capabilities": [
-    "attachment-sections",
-    "attachment-thumbnail",
-    "board-buttons",
-    "callback",
-    "card-badges",
     "card-buttons",
-    "card-detail-badges",
-    "card-from-url",
-    "format-url",
     "show-settings"
   ],
   "connectors": {

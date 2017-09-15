@@ -1,7 +1,7 @@
 {
   "name": "Minit",
-  "description": "Minit Integration",
-  "details": "Using https://minitapp.ir in Trello",
+  "description": "",
+  "details": "Using Minit[https://minitapp.ir] in Trello",
   "icon": {
     "url": "./images/logo.png"
   },
